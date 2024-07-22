@@ -524,7 +524,7 @@ h3 {
     top: 0;
     height: 100%;
     width: 100%;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 .card:hover .img-container {
@@ -554,3 +554,4 @@ h3 {
     line-height: 25px;
     font-size: 1.1em;
 }
+
